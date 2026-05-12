@@ -1,0 +1,38 @@
+.root {
+    -fx-font-family: "Arial";
+    -fx-background-color: #f4f6f8;
+}
+
+.title {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-background-color: #2a72d4;
+    -fx-text-fill: white;
+	-fx-font-weight: bold;
+}
+
+.button:hover {
+    -fx-background-color: #1e5bb8;
+}
+
+.text-field,
+.password-field,
+.combo-box {
+	-fx-pref-width: 200px;
+}
+
+.text-area{
+	-fx-font-family: "Consolas";
+	-fx-font-size: 13px;
+}
+
+.label {
+    -fx-font-size: 14px;
+}
+
+.label.title {
+	-fx-font-size:20px;
+}

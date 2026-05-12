@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Gradebook
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=stage
+comment2.target=void\ showTeacherView(javafx.stage.Stage)
+comment3.params=stage\ student
+comment3.target=void\ showStudentView(javafx.stage.Stage,\ Student)
+comment4.params=
+comment4.target=void\ generateStudents()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
